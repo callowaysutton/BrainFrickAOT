@@ -6,4 +6,4 @@ The basic workflow is:
 Brainfrick -> AST -> Golang -> Optimized Golang -> Interpretation from Golpal | Compile and run golang
 ```
 
-Outputted binaries can also be shrinked with UPX (https://upx.github.io/)
+Outputted binaries can also be shrunk with UPX (https://upx.github.io/)
